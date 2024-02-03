@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/vt57299](github.com/vt57299)
 
-- 💬 Ask me about **Python, Excel, SQL, Power BI**
+- 💬 Ask me about **Python, Excel, SQL, Power BI, NLP, Deep learning**
 
 - 📫 How to reach me **vt57299@gmail.com**
 
